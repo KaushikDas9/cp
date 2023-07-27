@@ -19,7 +19,6 @@ public class Beautiful_Matrix
            }
 
         System.out.println(Math.abs(2-a)+Math.abs(2-b));
-        System.out.println();
 
     }
 }
