@@ -1,4 +1,4 @@
-//package Striver_CP_SHEET;
+package Striver_CP_SHEET;
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -24,3 +24,14 @@ public class Anton_and_Polyhedrons {
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
