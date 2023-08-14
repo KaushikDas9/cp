@@ -1,4 +1,4 @@
-//package Striver_CP_SHEET;
+package Striver_CP_SHEET;
 
 import java.util.Scanner;
 
